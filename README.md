@@ -5,7 +5,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ed
 
 ## 🌐 Live Demo
 
-[Visit My Portfolio](#https://portfolio-pink-nu-73.vercel.app/)
+[Visit My Portfolio](https://portfolio-pink-nu-73.vercel.app/)
 
 ## 📌 About the Project
 
