@@ -59,8 +59,8 @@ The `.gitignore` file excludes `profile.jpeg` from Git tracking to keep the imag
 
 ## 📬 Connect With Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-URL)
+- **GitHub:** [Your GitHub Profile](https://github.com/arghanilmukherjee00-droid)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arghanil-mukherjee-a4bbb936b/)
 
 ---
 
